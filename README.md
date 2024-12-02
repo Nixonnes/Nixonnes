@@ -1,7 +1,7 @@
 <div id="header">
 <h1> Привет!Меня зовут Кадыров Артур</h1>
-<h3> :battery: Beginner Backend Developer on PHP</h3>
-<p>:zap: В текущий момент я изучаю фреймворки Laravel,Vue.js 3 и сопутствующие им технологии(Docker,Redis,RabbitMQ)</p>
+<h3> :battery: Backend Developer on PHP</h3>
+<p>:zap: В текущий момент я активно работаю с фреймворками Laravel,Vue.js 3 и сопутствующими им технологиями(Docker,Redis,RabbitMQ)</p>
 </div>
 
 <div id = "profile-information">
