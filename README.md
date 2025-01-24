@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXd3dHI3cW9xbHhyZ2dhMDhjNHBmNHN1eDNwb3ZnMzI0aDRtMW1jZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width=225>
   <div>
-  <img src="https://komarev.com/ghpvc/?username=Nixonnes&style=flat-square&color=red"
+  <img src="https://komarev.com/ghpvc/?username=Nixonnes&style=flat-square&color=red">
+ 
 </div>
 </div>
 
@@ -25,6 +26,12 @@ Frontend: AJAX, vanilla JavaScript, HTML/CSS.
 Databases: MySQL, exploring Redis for caching.
 
 Development Practices: Clean code, modular architecture, and practical problem-solving.
+
+## MyStats
+<div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nixonnes)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixonnes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## 🤝 Connect with Me
 
