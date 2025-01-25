@@ -28,10 +28,11 @@ Databases: MySQL, exploring Redis for caching.
 Development Practices: Clean code, modular architecture, and practical problem-solving.
 
 ## MyStats
-<div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Nixonnes)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixonnes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nixonnes)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixonnes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 🤝 Connect with Me
 
